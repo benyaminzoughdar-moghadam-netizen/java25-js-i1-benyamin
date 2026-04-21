@@ -1,0 +1,13 @@
+.hidden {
+    display: none;
+}
+
+body {
+    text-align: center;
+    font-family: Arial;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+}
